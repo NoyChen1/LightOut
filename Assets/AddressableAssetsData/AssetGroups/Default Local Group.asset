@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5a4324d45a3b4ad4fa85698159b6fda3
+  m_SerializeEntries:
+  - m_GUID: 6117aeb042e678a429b498783d9abf52
+    m_Address: Assets/Prefabs/Tile
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tile
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66eeeed3abf4de44880cd671d5a8701e
+    m_Address: Assets/Art/Backgrounds/Background3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Background
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4b6751ac26421e4c8071d0942d78fec
+    m_Address: Assets/Art/Backgrounds/Background2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Background
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d68ac9ed2dd5162448829adbf61c9abe
+    m_Address: Assets/Art/Backgrounds/Background1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Background
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1ebd806342b69dd41a20f183c0e13346, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: afe2fa228ea40dc4a9efb56baf6a2547, type: 2}
+    - {fileID: 11400000, guid: 39cedf01cae091b419d8d4106f599348, type: 2}
