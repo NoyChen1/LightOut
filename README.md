@@ -26,6 +26,11 @@ The goal: turn off all the lights by clicking on the tiles — each click toggle
 
 ---
 
+## 🌐 Play Online
+Experience the web version of TileVania on [itch.io](https://noychen.itch.io/light-out) and start your adventure today!
+
+---
+
 ## 🧩 Technical Overview
 
 - **Frameworks used**:
